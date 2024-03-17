@@ -8,9 +8,7 @@ public class Calculate {
         this.number2 = number2;
     }
 
-    public int add(){
-        return  number1 + number2;
-    }
+    public int add(){ return number1 + number2; }
 
     public int subtract(){
         return  number1 - number2;
